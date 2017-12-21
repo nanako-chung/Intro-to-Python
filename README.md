@@ -1,7 +1,4 @@
-# Intro-to-Python
-
-Assignment Specifications & Respective Topics:
-
+# Assignment Specifications & Respective Topics:
 **Assignment 1** - Variables & Statements
                 
   https://cs.nyu.edu/courses/fall17/CSCI-UA.0002-003/assign01.html
